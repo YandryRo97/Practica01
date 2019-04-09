@@ -1,0 +1,16 @@
+{
+    "Sample HTML": {
+    "prefix": "sample_html",
+    "body": [
+        "<html>",
+        "\t<head>",
+        "\t\t<title>Sample</title>",
+        "\t</head>",
+        "\t<body>",
+        "\t$2",
+        "\t</body>",
+        "</html>"
+    ],
+    "description": "Sample HTML – Demo"
+    }
+}
